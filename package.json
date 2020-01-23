@@ -16,7 +16,7 @@
     "koa-bodyparser": "^4.2.1",
     "koa-logger": "^3.2.0",
     "koa-router": "^7.4.0",
-    "mongoose": "^5.6.4",
+    "mongoose": "^5.8.9",
     "puppeteer": "^1.18.1",
     "request": "^2.88.0"
   },
@@ -25,7 +25,7 @@
     "@types/cheerio": "^0.22.12",
     "@types/koa": "^2.0.48",
     "@types/koa-bodyparser": "^4.3.0",
-    "@types/mongoose": "^5.5.8",
+    "@types/mongoose": "^5.5.43",
     "@types/puppeteer": "^1.12.4",
     "@types/request": "^2.48.2"
   }
